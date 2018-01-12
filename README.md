@@ -7,7 +7,7 @@ This Device is available from www.ncd.io [SKU: ADC081C_I2CS]
 (https://store.ncd.io/product/adc081c-8-bit-1-channel-high-speed-analog-to-digital-converter-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
-Hardware needed to interfaceADC081CWith Raspberry Pi : 
+Hardware needed to interface ADC081C With Raspberry Pi : 
 1. <a href="https://store.ncd.io/product/adc081c-8-bit-1-channel-high-speed-analog-to-digital-converter-i2c-mini-module/">ADC081C 8-Bit 1-Channel High-Speed Analog to Digital Converte</a>
 2. <a href="https://store.ncd.io/product/i2c-shield-for-raspberry-pi-3-pi2-with-outward-facing-i2c-port-terminates-over-hdmi-port/">Raspberry Pi I2C Shield</a>
 3. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
