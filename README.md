@@ -20,3 +20,7 @@ Download (or git pull) the code in pi. Run the program.
 ```cpp
 $> python ADC081C.py
 ```
+The lib is a sample library, you will need to calibrate the sensor according to your application requirement.
+
+
+
