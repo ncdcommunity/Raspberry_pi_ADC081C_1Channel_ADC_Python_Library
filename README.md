@@ -3,7 +3,10 @@
 
 # ADC081C
 ADC081C is a 8-Bit 1-Channel High-Speed Analog to Digital Converter.
-This Device is available from www.ncd.io [SKU: ADC081C_I2CS]
+This Device is available from www.ncd.io
+
+[SKU: ADC081C_I2CS]
+
 (https://store.ncd.io/product/adc081c-8-bit-1-channel-high-speed-analog-to-digital-converter-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
